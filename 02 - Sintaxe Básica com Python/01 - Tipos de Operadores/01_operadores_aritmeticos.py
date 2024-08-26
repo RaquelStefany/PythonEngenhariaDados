@@ -1,3 +1,5 @@
+# Os operadores aritméticos executam operações matemáticas, como adição, subtração com operandos.
+
 # adição
 print(2 + 2)
 
