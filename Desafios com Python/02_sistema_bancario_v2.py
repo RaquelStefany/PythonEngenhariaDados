@@ -199,7 +199,6 @@ def recuperar_conta_cliente(cliente):
         print("\nCliente não possui conta!")
         return
 
-    # FIXME: não permite cliente escolher a conta
     return cliente.contas[0]
 
 
@@ -337,6 +336,5 @@ def main():
 
         else:
             print("\nOperação inválida, por favor selecione novamente a operação desejada.")
-
 
 main()
